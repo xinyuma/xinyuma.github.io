@@ -1,2 +1,2 @@
 # xinyuma.github.io
-personal website
+Welcome to my page.
