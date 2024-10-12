@@ -2,53 +2,15 @@
 
 ## About Me
 
-I am a [Your Position] at [Your Institution], specializing in [Your Field]. My research focuses on [Brief Description of Research Interests].
+I am a fourth-year PhD student in the Department of Operations, Information, and Decisions at the Wharton School, University of Pennsylvania. My advisor is Professor [Lynn Wu](https://oid.wharton.upenn.edu/profile/wulynn/). My research focuses on the economics of artificial intelligence and innovation. Before my PhD studies, I obtained a master’s degree in [Computer and Information Science](https://www.cis.upenn.edu/graduate/program-offerings/mse-in-cis/) from Penn Engineering and worked as a research analyst at the [Zell/Lurie Real Estate Center](https://realestate.wharton.upenn.edu) at the Wharton School, where I conducted research on transportation policies."
 
-## Education
-
-- **PhD in [Field]**, [University Name], [Year]
-  - Thesis: "[Thesis Title]"
-  - Advisor: [Advisor's Name]
-- **MS in [Field]**, [University Name], [Year]
-- **BS in [Field]**, [University Name], [Year]
-
-## Research Interests
-
-- [Research Area 1]
-- [Research Area 2]
-- [Research Area 3]
-
-## Publications
+## Academic Projects
 
 1. [Author List]. (Year). "[Paper Title]". *Journal Name*, Volume(Issue), Pages. [DOI or Link]
 2. [Author List]. (Year). "[Paper Title]". *Journal Name*, Volume(Issue), Pages. [DOI or Link]
 3. [Author List]. (Year). "[Paper Title]". *Conference Name*, Pages. [DOI or Link]
 
-## Projects
-
-### [Project Name 1]
-Brief description of the project, its goals, and outcomes.
-
-### [Project Name 2]
-Brief description of the project, its goals, and outcomes.
-
-## Teaching
-
-- [Course Name], [Institution], [Semester Year]
-- [Course Name], [Institution], [Semester Year]
-
-## Awards and Honors
-
-- [Award Name], [Awarding Institution], [Year]
-- [Honor Name], [Awarding Institution], [Year]
-
 ## Contact
 
-- Email: your.email@institution.edu
-- Office: [Building Name, Room Number]
-- [LinkedIn Profile]
-- [Twitter Handle]
-
-## CV
-
-[Link to your full CV]
+- Email: xinyuma@wharton.upenn.edu
+- Office: [3730 Walnut Street, 500 Jon M. Huntsman Hall, Philadelphia PA 19104]
