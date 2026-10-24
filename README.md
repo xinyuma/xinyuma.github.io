@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a fifth-year PhD student in the Department of Operations, Information and Decisions at the Wharton School, University of Pennsylvania. My advisor is Professor [Lynn Wu](https://oid.wharton.upenn.edu/profile/wulynn/). My research focuses on the economics of artificial intelligence and innovation.
+I am a final-year PhD student in the Department of Operations, Information and Decisions at the Wharton School, University of Pennsylvania. My advisor is Professor [Lynn Wu](https://oid.wharton.upenn.edu/profile/wulynn/). My research focuses on the economics of artificial intelligence and innovation.
 
 
 ## Contact
